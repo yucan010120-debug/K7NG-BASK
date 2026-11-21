@@ -320,14 +320,6 @@ BOAS_VINDAS_APAGAR_SEG = 0      # apagar a mensagem de boas-vindas depois de X s
 SAIDA_TEXTO = "😢 **{nome}** saiu do servidor. Agora somos **{membros}** membros."
 BOOST_AGRADECER = True          # agradece quando alguém impulsiona o servidor (no CANAL_BOOSTER; se vazio, no canal da mensagem de impulso)
 
-# ==================== NÍVEIS / XP (estilo Loritta/MEE6) ====================
-XP_ATIVADO = True
-XP_POR_MENSAGEM = (15, 25)      # ganha um valor aleatório nesse intervalo...
-XP_COOLDOWN_SEG = 60            # ...no máximo 1 vez a cada X segundos
-CANAIS_SEM_XP = set()           # ids de canais onde não se ganha XP
-RECOMPENSAS_NIVEL = {}          # cargos por nível. Ex.: {5: 111111111111111111, 10: 222222222222222222}
-SO_MAIOR_CARGO_NIVEL = True     # True = o membro fica só com o cargo do maior nível alcançado
-
 # ==================== SORTEIOS / EXTRAS ====================
 EMOJI_SORTEIO = "🎉"
 SALA_TEMP_CRIADOR = 0           # ID de um canal de VOZ "➕ Criar sala": quem entra ganha uma sala própria (0 = desligado)
