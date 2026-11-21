@@ -208,7 +208,7 @@ TICKET_ESTILO_PADRAO = "botoes"     # "botoes" = botões (print do Ticket King) 
                                     # (no /painel_tickets você escolhe o estilo na hora)
 TICKET_PAINEL_AUTOR = "Ajuda & Suporte"
 TICKET_PAINEL_TITULO = "Tickets Tropa do K7NG"
-TICKET_PAINEL_TEXTO = "Denúncias, ajuda técnica e revisão de punições.
+TICKET_PAINEL_TEXTO = """Denúncias, ajuda técnica e revisão de punições.
 
 Sorteios:
 ↳ Resgate premios dos sorteios.
@@ -219,7 +219,7 @@ Dúvidas:
 Patrocionio:
 ↳ Patrocine alguma fruta ou skin para sorteios.
 
-Lembre-se: Nossa equipe está pronta para investigar e resolver qualquer situação de forma rápida e justa. Sua privacidade será respeitada durante todo o processo!"
+Lembre-se: Nossa equipe está pronta para investigar e resolver qualquer situação de forma rápida e justa. Sua privacidade será respeitada durante todo o processo!"""
 TICKET_PAINEL_RODAPE = "Atendimento Oficial K7NG"
 IMAGEM_PAINEL_TICKETS = "https://cdn.discordapp.com/attachments/1519742551488467184/1573518663296880792/file_000000002904820e87bbd755ad1aec09.png?ex=6b024cf3&is=6b00fb73&hm=070e56fafc298f96384f399be9f4577cdb63bf8d04089f04531a97515987616f"          # 🖼️ ESPAÇO PARA IMAGEM: banner grande embaixo do texto do painel (cole o link da imagem)
 MINIATURA_PAINEL_TICKETS = ""       # 🖼️ imagem pequena no canto do painel (opcional)
