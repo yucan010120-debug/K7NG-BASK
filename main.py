@@ -208,8 +208,7 @@ TICKET_ESTILO_PADRAO = "botoes"     # "botoes" = botões (print do Ticket King) 
                                     # (no /painel_tickets você escolhe o estilo na hora)
 TICKET_PAINEL_AUTOR = "Ajuda & Suporte"
 TICKET_PAINEL_TITULO = "Tickets Tropa do K7NG"
-TICKET_PAINEL_TEXTO = "Denúncias:
-↳ Denúncias, ajuda técnica e revisão de punições.
+TICKET_PAINEL_TEXTO = "Denúncias, ajuda técnica e revisão de punições.
 
 Sorteios:
 ↳ Resgate premios dos sorteios.
